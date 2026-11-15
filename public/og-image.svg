@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f1f4e9"/>
+<rect x="64" y="64" width="64" height="64" rx="16" fill="#c34c29"/>
+<path d="M88 80h22v25c0 10-6 15-15 15-7 0-12-3-15-9l8-5c1 3 3 5 7 5 4 0 6-2 6-7V89H88Z" fill="#fff8ec"/>
+<g font-family="Manrope, PingFang SC, sans-serif" fill="#2e3d27"><text x="152" y="94" font-size="30" font-weight="600">Jasmine</text><text x="152" y="124" font-size="18" fill="#637653">Embodied Intelligence Learning Station</text>
+<text x="64" y="268" font-size="60" font-weight="600">从第一篇阅读，</text><text x="64" y="348" font-size="60" font-weight="600">走向具身智能实践。</text>
+<text x="64" y="420" font-size="24" fill="#637653">29 篇阅读 · 3 个阶段 · 数据与 AI 产品岗位面试准备</text>
+<text x="64" y="548" font-size="20" fill="#7a866c">ROBOLEARNING.CARCAGEM.ONLINE</text></g>
+<g transform="translate(912 248)" fill="none" stroke="#789263" stroke-width="3"><rect width="176" height="176" rx="24"/><path d="m32 104 48-56 48 32v32m-48-64v80m36-32 24 16-24 16-24-16Z"/><circle cx="80" cy="48" r="9" fill="#e8efdd"/><circle cx="32" cy="104" r="9" fill="#e8efdd"/><path d="m116 96 24 16v24l-24 16-24-16v-24Z" fill="#e58a5e" stroke="#b9502c"/></g></svg>
